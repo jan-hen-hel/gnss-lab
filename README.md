@@ -9,10 +9,8 @@ Various receiver equipment for GNSS lab experiments
 
 ## Accessing Lab
 
-`janluehr1.proxmox.crnalab.net` can be used as a VPN gateway or jump host. It connects to all other equipment.
+A VPN gateway or jump host must be used to connect to the equipment. 
 
-Notes
- 
 * Accessing the SSH-Jumphost requires an active OpenVPN connection from SimulaMet CRNA
 * Management IP-Range is 198.19.250.0/24 (RFC 2544)
 
