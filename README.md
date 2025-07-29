@@ -3,9 +3,9 @@ Various receiver equipment for GNSS lab experiments
 
 ## Configured Equipment
 
-* alidade (198.19.250.201), PC Engines APU, 2x MC7455 
-* barometer (198.19.250.201), *offline, not installed yet*, PC Engines 1x RM500.
-* kamal (198.19.250.211), Celerway Arcus, 2x RM505Q-AE, 1x BG 96 (IoT) + Build in receiver - Note: Jan is not sure if GPS is available on the BG 96 module - there is one empty mounting base for a connector on the PCB.
+* alidade (198.19.250.201, alidade.gnss.dev), PC Engines APU, 2x MC7455 
+* barometer (198.19.250.201, barometer.gnss.dev), *offline, not installed yet*, PC Engines APU, 1x RM500.
+* kamal (198.19.250.211, kamal.gnss.dev), Celerway Arcus, 2x RM505Q-AE, 1x BG 96 (IoT) + Build in receiver - Note: Jan is not sure if GPS is available on the BG 96 module - there is one empty mounting base for a connector on the PCB.
 
 ## Accessing Lab
 
