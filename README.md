@@ -16,7 +16,8 @@ A VPN gateway or jump host must be used to connect to the equipment.
 
 ### Webinterface
 
-To access the webinterface, forward ports 443/tcp and 80/tcp. It is - in this example - accessible at http://localhost:8081 and https://localhost:4431
+To access the webinterface, forward ports 443/tcp and 80/tcp. It is - in this example - accessible at http://localhost:8081 and https://localhost:4431.
+Replace `kamal.gnss.dev` with the intended host.
 
 `ssh -L 4431:localhost:443 -L 8081:localhost:80 kamal.gnss.dev`
 
