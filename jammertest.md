@@ -21,7 +21,7 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 ### Side: Car
 
 | Name      | Platform | IP-Address    | Modules      |
-| ========= | ======== | ============= | ============ |
+| --------- | -------- | ------------- | ------------ |
 | alidade   | APU      | 198.19.250.1  | 2x MC7455    |
 | barometer | APU      | 198.19.250.2  | 2x MC7455    |
 | kamal     | Arcus    | 198.19.250.11 | 2x RM505Q-AE |
@@ -32,7 +32,7 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 ### Side: Bleik Community House
 
 | Name        | Platform | IP-Address    | Modules      |
-| =========== | ======== | ============= | ============ |
+| ----------- | -------- | ------------- | ------------ |
 | chronometer | APU      | 198.19.250.3  | 2x MC7455    |
 | dipcircle   | APU      | 198.19.250.4  | 2x MC7455    |
 | nocturlabium| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
