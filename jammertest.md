@@ -20,23 +20,23 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 
 ### Side: Car
 
-| Name      | Platform | IP-Address    | Modules      |
-| --------- | -------- | ------------- | ------------ |
-| alidade   | APU      | 198.19.250.1  | 2x MC7455    |
-| barometer | APU      | 198.19.250.2  | 2x MC7455    |
-| kamal     | Arcus    | 198.19.250.11 | 2x RM505Q-AE |
-| loadstone | Arcus    | 198.19.250.12 | 2x RM505Q-AE |
+| Node ID | Name      | Platform | IP-Address    | Modules      |
+|---------| --------- | -------- | ------------- | ------------ |
+| 3100    | alidade   | APU      | 198.19.250.1  | 2x MC7455    |
+| 3101    | barometer | APU      | 198.19.250.2  | 2x MC7455    |
+| 4125    | kamal     | Arcus    | 198.19.250.11 | 2x RM505Q-AE |
+| 7065    | loadstone | Arcus    | 198.19.250.12 | 2x RM505Q-AE |
 
 
 
 ### Side: Bleik Community House
 
-| Name        | Platform | IP-Address    | Modules      |
-| ----------- | -------- | ------------- | ------------ |
-| chronometer | APU      | 198.19.250.3  | 2x MC7455    |
-| dipcircle   | APU      | 198.19.250.4  | 2x MC7455    |
-| nocturlabium| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
-| uranometria | BPI      | 198.19.250.21 | 2x RM505Q-AE |
+| Node ID |  Name       | Platform | IP-Address    | Modules      |
+| ------- | ----------- | -------- | ------------- | ------------ |
+| 3102    | chronometer | APU      | 198.19.250.3  | 2x MC7455    |
+| 3103    | dipcircle   | APU      | 198.19.250.4  | 2x MC7455    |
+| 6361    | nocturlabium| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
+| 3104   | uranometria | BPI      | 198.19.250.21 | 2x RM505Q-AE |
 
 ### Consideration
 
