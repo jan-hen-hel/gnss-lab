@@ -35,7 +35,7 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 | ------- | ----------- | -------- | ------------- | ------------ |
 | 3102    | chronometer | APU      | 198.19.250.3  | 2x MC7455    |
 | 3103    | dipcircle   | APU      | 198.19.250.4  | 2x MC7455    |
-| 4125    | nocturlabium| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
+| 4125    | magnetometer| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
 | 3104   | uranometria | BPI      | 198.19.250.21 | 2x RM505Q-AE |
 
 ### Consideration
