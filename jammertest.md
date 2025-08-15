@@ -22,10 +22,10 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 
 | Node ID | Name      | Platform | IP-Address    | Modules      |
 |---------| --------- | -------- | ------------- | ------------ |
-| 3100    | alidade   | APU      | 198.19.250.1  | 2x MC7455    |
-| 3101    | barometer | APU      | 198.19.250.2  | 2x MC7455    |
-| 6361    | kamal     | Arcus    | 198.19.250.11 | 2x RM505Q-AE |
-| 7065    | loadstone | Arcus    | 198.19.250.12 | 2x RM505Q-AE |
+| 3100    | alidade   | APU      | 198.19.250.201  | 2x MC7455    |
+| 3101    | barometer | APU      | 198.19.250.202  | 2x MC7455    |
+| 6361    | kamal     | Arcus    | 198.19.250.211 | 2x RM505Q-AE |
+| 7065    | loadstone | Arcus    | 198.19.250.212 | 2x RM505Q-AE |
 
 
 
@@ -33,10 +33,10 @@ It focuses on provisioning hardware for the parameters as outlined in the experi
 
 | Node ID |  Name       | Platform | IP-Address    | Modules      |
 | ------- | ----------- | -------- | ------------- | ------------ |
-| 3102    | chronometer | APU      | 198.19.250.3  | 2x MC7455    |
-| 3103    | dipcircle   | APU      | 198.19.250.4  | 2x MC7455    |
-| 4125    | magnetometer| Arcus    | 198.19.250.13 | 2x RM505Q-AE |
-| 3104   | uranometria | BPI      | 198.19.250.21 | 2x RM505Q-AE |
+| 3102    | chronometer | APU      | 198.19.250.203  | 2x MC7455    |
+| 3103    | dipcircle   | APU      | 198.19.250.204  | 2x MC7455    |
+| 4125    | magnetometer| Arcus    | 198.19.250.213 | 2x RM505Q-AE |
+| 3104   | uranometria | BPI      | 198.19.250.221 | 2x RM505Q-AE |
 
 ### Consideration
 
